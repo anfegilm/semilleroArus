@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anfegilm/semilleroArus/issues"
   },
-  "homepage": "https://github.com/anfegilm/semilleroArus#readme"
+  "homepage": "https://github.com/anfegilm/semilleroArus#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
