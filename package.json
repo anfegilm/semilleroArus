@@ -1,0 +1,19 @@
+{
+  "name": "semilleroarus",
+  "version": "1.0.0",
+  "description": "cambios de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anfegilm/semilleroArus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anfegilm/semilleroArus/issues"
+  },
+  "homepage": "https://github.com/anfegilm/semilleroArus#readme"
+}
