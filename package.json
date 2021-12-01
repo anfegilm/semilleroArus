@@ -4,7 +4,9 @@
   "description": "cambios de prueba",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js",
+    "lint": "standard",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +21,9 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "standard": "^16.0.4"
   }
 }
